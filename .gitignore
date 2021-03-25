@@ -1,1 +1,5 @@
 cmake-build-debug
+misc.xml
+modules.xml
+Project_Default.xml
+vcs.xml
